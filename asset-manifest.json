@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/christmas-postcard-2023/static/css/main.01d7d036.css",
-    "main.js": "/christmas-postcard-2023/static/js/main.e2658953.js",
+    "main.css": "/christmas-postcard-2023/static/css/main.283bab39.css",
+    "main.js": "/christmas-postcard-2023/static/js/main.62889dea.js",
     "static/js/787.dada2953.chunk.js": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js",
-    "static/media/fire.png": "/christmas-postcard-2023/static/media/fire.67e26c279eb7611ecc2f.png",
+    "static/media/Les_dotze_van_tocant_Escolania_de_Montserrat.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Escolania_de_Montserrat.c23f943da572b165bfe7.mp3",
+    "static/media/Les_dotze_van_tocant_Lieder_Camera.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Lieder_Camera.6f860098ee2e189875c6.mp3",
+    "static/media/Les_dotze_van_tocant_Infantil.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Infantil.6430da128ce39d056cd3.mp3",
+    "static/media/Les_dotze_van_tocant_Arnau_Tordera.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Arnau_Tordera.031509b847df9ee4cc36.mp3",
+    "static/media/Les_dotze_van_tocant_Locomotora_Negra.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Locomotora_Negra.bcd3a8424e1331edb605.mp3",
     "static/media/moon.png": "/christmas-postcard-2023/static/media/moon.b179ceb1b60457dd5584.png",
     "index.html": "/christmas-postcard-2023/index.html",
-    "main.01d7d036.css.map": "/christmas-postcard-2023/static/css/main.01d7d036.css.map",
-    "main.e2658953.js.map": "/christmas-postcard-2023/static/js/main.e2658953.js.map",
+    "main.283bab39.css.map": "/christmas-postcard-2023/static/css/main.283bab39.css.map",
+    "main.62889dea.js.map": "/christmas-postcard-2023/static/js/main.62889dea.js.map",
     "787.dada2953.chunk.js.map": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01d7d036.css",
-    "static/js/main.e2658953.js"
+    "static/css/main.283bab39.css",
+    "static/js/main.62889dea.js"
   ]
 }
