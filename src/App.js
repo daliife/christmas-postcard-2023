@@ -15,11 +15,11 @@ function App() {
         <div id="stars2"></div>
         <div id="stars3"></div>
       </div>
-      {/* <img
+      <img
         src={moon}
         alt="moon"
-        className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-1/2 sm:w-1/4 h-auto opacity-30 z-0 "
-      /> */}
+        className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-1/2 sm:w-1/4 h-auto opacity-20 z-0 "
+      />
       <div className="sm:h-[100vh] h-full flex flex-col gap-4 items-center justify-center p-6">
         <h3 className="text-2xl font-bold">LES DOTZE VAN TOCANT</h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 sm:gap-2 h-fit">
