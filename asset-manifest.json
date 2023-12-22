@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/christmas-postcard-2023/static/css/main.7e536ccf.css",
-    "main.js": "/christmas-postcard-2023/static/js/main.900c14d2.js",
+    "main.css": "/christmas-postcard-2023/static/css/main.c1c8cd02.css",
+    "main.js": "/christmas-postcard-2023/static/js/main.29175206.js",
     "static/js/787.dada2953.chunk.js": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js",
-    "static/media/Les_dotze_van_tocant_Escolania_de_Montserrat.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Escolania_de_Montserrat.c23f943da572b165bfe7.mp3",
-    "static/media/Les_dotze_van_tocant_Lieder_Camera.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Lieder_Camera.6f860098ee2e189875c6.mp3",
-    "static/media/Les_dotze_van_tocant_Infantil.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Infantil.6430da128ce39d056cd3.mp3",
-    "static/media/Les_dotze_van_tocant_Arnau_Tordera.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Arnau_Tordera.031509b847df9ee4cc36.mp3",
-    "static/media/Les_dotze_van_tocant_Locomotora_Negra.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Locomotora_Negra.bcd3a8424e1331edb605.mp3",
+    "static/media/Les dotze van tocant Infantil OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Infantil OK.6430da128ce39d056cd3.mp3",
+    "static/media/Les dotze van tocant Locomotora negra OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Locomotora negra OK.a5f006d06f7f13955c87.mp3",
+    "static/media/Les dotze van tocant Escolania de Montserrat OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Escolania de Montserrat OK.ad8cddb0558295af4e35.mp3",
+    "static/media/Les dotze van tocant Arnau Tordera OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Arnau Tordera OK.d1a6e5a0d909f4c9bd5a.mp3",
+    "static/media/Les dotze van tocant Lieder Camera OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Lieder Camera OK.f0f469aada1869b69442.mp3",
     "static/media/moon.png": "/christmas-postcard-2023/static/media/moon.b179ceb1b60457dd5584.png",
     "index.html": "/christmas-postcard-2023/index.html",
-    "main.7e536ccf.css.map": "/christmas-postcard-2023/static/css/main.7e536ccf.css.map",
-    "main.900c14d2.js.map": "/christmas-postcard-2023/static/js/main.900c14d2.js.map",
+    "main.c1c8cd02.css.map": "/christmas-postcard-2023/static/css/main.c1c8cd02.css.map",
+    "main.29175206.js.map": "/christmas-postcard-2023/static/js/main.29175206.js.map",
     "787.dada2953.chunk.js.map": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e536ccf.css",
-    "static/js/main.900c14d2.js"
+    "static/css/main.c1c8cd02.css",
+    "static/js/main.29175206.js"
   ]
 }
