@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/christmas-postcard-2023/static/css/main.283bab39.css",
-    "main.js": "/christmas-postcard-2023/static/js/main.62889dea.js",
+    "main.css": "/christmas-postcard-2023/static/css/main.7e536ccf.css",
+    "main.js": "/christmas-postcard-2023/static/js/main.d30583d1.js",
     "static/js/787.dada2953.chunk.js": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js",
     "static/media/Les_dotze_van_tocant_Escolania_de_Montserrat.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Escolania_de_Montserrat.c23f943da572b165bfe7.mp3",
     "static/media/Les_dotze_van_tocant_Lieder_Camera.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Lieder_Camera.6f860098ee2e189875c6.mp3",
@@ -10,12 +10,12 @@
     "static/media/Les_dotze_van_tocant_Locomotora_Negra.mp3": "/christmas-postcard-2023/static/media/Les_dotze_van_tocant_Locomotora_Negra.bcd3a8424e1331edb605.mp3",
     "static/media/moon.png": "/christmas-postcard-2023/static/media/moon.b179ceb1b60457dd5584.png",
     "index.html": "/christmas-postcard-2023/index.html",
-    "main.283bab39.css.map": "/christmas-postcard-2023/static/css/main.283bab39.css.map",
-    "main.62889dea.js.map": "/christmas-postcard-2023/static/js/main.62889dea.js.map",
+    "main.7e536ccf.css.map": "/christmas-postcard-2023/static/css/main.7e536ccf.css.map",
+    "main.d30583d1.js.map": "/christmas-postcard-2023/static/js/main.d30583d1.js.map",
     "787.dada2953.chunk.js.map": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.283bab39.css",
-    "static/js/main.62889dea.js"
+    "static/css/main.7e536ccf.css",
+    "static/js/main.d30583d1.js"
   ]
 }
