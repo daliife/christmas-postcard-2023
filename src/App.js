@@ -37,7 +37,7 @@ function App() {
       <div className="sm:h-[100vh] h-full flex flex-col gap-0 items-center justify-center p-6 z-10 relative">
         <h3 className="text-2xl font-semibold">LES DOTZE VAN TOCANT</h3>
         <p className="italic text-sm">tradicional catalana</p>
-        <div className="grid grid-cols-1 sm:grid-cols-2 sm:gap-2 h-fit mt-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 sm:gap-4 h-fit mt-4">
           <p className="text-lg font-medium">
             Les dotze van tocant.
             <br />
@@ -59,7 +59,7 @@ function App() {
             <br />
             l'udol arriba.
           </p>
-          <p className="text-lg font-medium items-center">
+          <p className="text-lg font-medium items-center mt-6 sm:mt-0">
             La Verge i el Fillet
             <br />
             n'estan mig morts de fred
@@ -73,7 +73,7 @@ function App() {
             <br /> i els àngels canten.
           </p>
         </div>
-        <div className="flex flex-row gap-4 mt-4">
+        <div className="flex flex-row gap-4 mt-6">
           <button
             className="music-button flex gap-3 items-center border-2 border-white rounded-xl p-2 hover:bg-gray-600"
             onClick={() => playAudioOnSource(1)}
