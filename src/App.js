@@ -35,7 +35,7 @@ function App() {
         className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-1/2 sm:w-1/4 h-auto opacity-40 z-0 "
       />
       <div className="sm:h-[100vh] h-full flex flex-col gap-0 items-center justify-center p-6 z-10 relative">
-        <h3 className="text-2xl font-semibold">LES DOTZE VAN TOCANT</h3>
+        <h3 className="text-2xl font-semibold">LES DOTZE VAN TOCANT TEST</h3>
         <p className="italic text-sm">tradicional catalana</p>
         <div className="grid grid-cols-1 sm:grid-cols-2 sm:gap-4 h-fit mt-4">
           <p className="text-lg font-medium">
