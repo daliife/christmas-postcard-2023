@@ -1,7 +1,7 @@
 {
   "name": "christmas-postcard-2023",
-  "version": "0.1.0",
   "homepage": "https://daliife.github.io/christmas-postcard-2023",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
