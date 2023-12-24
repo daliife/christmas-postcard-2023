@@ -111,7 +111,7 @@ function App() {
         <p className="text-2xl font-bold mt-10 text-center text-blue-300">
           BON NADAL I VENTURÓS VINT-I-QUATRE!
         </p>
-        <p className="text-lg text-center">Pau, David, Núria i Ricard</p>
+        <p className="text-lg text-center">Ricard</p>
         <p className="text-sm text-center">Nadal 2023</p>
       </div>
     </div>
