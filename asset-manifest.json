@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/christmas-postcard-2023/static/css/main.f5630a6b.css",
-    "main.js": "/christmas-postcard-2023/static/js/main.38812909.js",
-    "static/js/787.dada2953.chunk.js": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js",
-    "static/media/Les dotze van tocant Infantil OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Infantil OK.6430da128ce39d056cd3.mp3",
-    "static/media/Les dotze van tocant Locomotora negra OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Locomotora negra OK.a5f006d06f7f13955c87.mp3",
-    "static/media/Les dotze van tocant Escolania de Montserrat OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Escolania de Montserrat OK.ad8cddb0558295af4e35.mp3",
-    "static/media/Les dotze van tocant Arnau Tordera OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Arnau Tordera OK.d1a6e5a0d909f4c9bd5a.mp3",
-    "static/media/Les dotze van tocant Lieder Camera OK.mp3": "/christmas-postcard-2023/static/media/Les dotze van tocant Lieder Camera OK.f0f469aada1869b69442.mp3",
-    "static/media/moon.png": "/christmas-postcard-2023/static/media/moon.b179ceb1b60457dd5584.png",
-    "index.html": "/christmas-postcard-2023/index.html",
-    "main.f5630a6b.css.map": "/christmas-postcard-2023/static/css/main.f5630a6b.css.map",
-    "main.38812909.js.map": "/christmas-postcard-2023/static/js/main.38812909.js.map",
-    "787.dada2953.chunk.js.map": "/christmas-postcard-2023/static/js/787.dada2953.chunk.js.map"
+    "main.css": "https://daliife.github.io/christmas-postcard-2023/static/css/main.f5630a6b.css",
+    "main.js": "https://daliife.github.io/christmas-postcard-2023/static/js/main.c174e476.js",
+    "static/js/787.dada2953.chunk.js": "https://daliife.github.io/christmas-postcard-2023/static/js/787.dada2953.chunk.js",
+    "static/media/Les dotze van tocant Infantil OK.mp3": "https://daliife.github.io/christmas-postcard-2023/static/media/Les dotze van tocant Infantil OK.6430da128ce39d056cd3.mp3",
+    "static/media/Les dotze van tocant Locomotora negra OK.mp3": "https://daliife.github.io/christmas-postcard-2023/static/media/Les dotze van tocant Locomotora negra OK.a5f006d06f7f13955c87.mp3",
+    "static/media/Les dotze van tocant Escolania de Montserrat OK.mp3": "https://daliife.github.io/christmas-postcard-2023/static/media/Les dotze van tocant Escolania de Montserrat OK.ad8cddb0558295af4e35.mp3",
+    "static/media/Les dotze van tocant Arnau Tordera OK.mp3": "https://daliife.github.io/christmas-postcard-2023/static/media/Les dotze van tocant Arnau Tordera OK.d1a6e5a0d909f4c9bd5a.mp3",
+    "static/media/Les dotze van tocant Lieder Camera OK.mp3": "https://daliife.github.io/christmas-postcard-2023/static/media/Les dotze van tocant Lieder Camera OK.1d25512d59b830dfb725.mp3",
+    "static/media/moon.png": "https://daliife.github.io/christmas-postcard-2023/static/media/moon.dfb8fe98172b15f6ad77.png",
+    "index.html": "https://daliife.github.io/christmas-postcard-2023/index.html",
+    "main.f5630a6b.css.map": "https://daliife.github.io/christmas-postcard-2023/static/css/main.f5630a6b.css.map",
+    "main.c174e476.js.map": "https://daliife.github.io/christmas-postcard-2023/static/js/main.c174e476.js.map",
+    "787.dada2953.chunk.js.map": "https://daliife.github.io/christmas-postcard-2023/static/js/787.dada2953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5630a6b.css",
-    "static/js/main.38812909.js"
+    "static/js/main.c174e476.js"
   ]
 }
